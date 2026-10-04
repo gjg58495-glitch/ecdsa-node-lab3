@@ -1,0 +1,16 @@
+EDUCATIONAL KEYS ONLY — DO NOT USE THESE KEYS FOR REAL CRYPTOCURRENCY.
+
+Account 1
+Private key: a4e7b7d84cd9c4bf329e55800b56e14c055a16180ae6a00b6df7b1d4396766d8
+Public key:  020c7931ca22ba21d1908b767210268acbcda7208c8ac59ea972e6639667261579
+Initial balance: 100
+
+Account 2
+Private key: 8085ac3bbb6c41f269f5dcee9e3cedc2d7aa9a64da13429d2eb5990b1f5a2187
+Public key:  02df08f3ae6fd07a15eec3480b1eee7470b5ba21ed9e6c60686e49e0e07e4a8d45
+Initial balance: 50
+
+Account 3
+Private key: de53c76029eb83aad73bec765f6023d65c40b3d581a32d4ab0da065c3a478437
+Public key:  03cce9c9391b7499c6738f09e4a66d97db0f3f7b6e99a28eb740fecf4043641d74
+Initial balance: 75
